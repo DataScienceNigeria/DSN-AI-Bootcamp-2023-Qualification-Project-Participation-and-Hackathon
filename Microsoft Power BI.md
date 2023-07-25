@@ -29,7 +29,7 @@ Participants will present their findings and visualizations to a panel of esteem
 Participants are required to follow these steps for submission:
 
 1. Create a 5 to 10 minutes video presentation showcasing their visualizations, insights, and data storytelling. 
-2. Submit the Power BI (.PBIX) file
+2. Upload your Power BI (.PBIX) file
 3. An executive report (PDF format) detailing the project's insight
    
 Submission link: [https://bit.ly/dsn-Bootcamp-2023](https://bit.ly/dsn-Bootcamp-2023)
