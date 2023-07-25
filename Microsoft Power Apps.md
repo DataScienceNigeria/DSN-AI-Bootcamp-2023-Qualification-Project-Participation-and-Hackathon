@@ -53,7 +53,7 @@ Our panel of expert judges will evaluate each submission based on the following 
 5. Data Security: How robust is the solution in terms of data protection and privacy?
 6. Presentation: How well does the video presentation showcase the app's features and benefits?
 
-## Hackathon Details
+## Important Dates
 
 - Hackathon Launch: July 26, 2023
 - Submission Deadline: August 6, 2023
