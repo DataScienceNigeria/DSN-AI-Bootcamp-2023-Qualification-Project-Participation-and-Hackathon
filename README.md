@@ -1,7 +1,7 @@
 # DSN AI Bootcamp Qualification 2023: Project Participation and Hackathon Overview
 
 
-[![Image](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/images/MicrosoftTeams-image%20(15).png?raw=true)]()
+[![Image](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/images/Bimage1.png?raw=true)]()
 
 <!-- Images arranged horizontally -->
 <p align='center'>
