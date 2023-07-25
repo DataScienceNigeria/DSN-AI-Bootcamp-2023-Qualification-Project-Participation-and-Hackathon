@@ -42,8 +42,8 @@ Click [here](https://drive.google.com/drive/folders/1v0UavZ9d5NyMOQeWjYA8LVJy6gP
 
 ## To read more about the NESG data, visit: 
 
-- Details about NESG Data: NESG Nigeria Tax Subsidy Perception Dataset
-- NESG Website: Nigerian Economic Summit Group 
+- [Details about NESG Data: NESG Nigeria Tax Subsidy Perception Dataset](https://www.ictd.ac/dataset/nesg-nigeria-tax-subsidy-perception-dataset/)
+- [NESG Website: Nigerian Economic Summit Group](https://nesgroup.org/)
 
 ## Important Dates
 
