@@ -26,7 +26,7 @@ The DSN AI Bootcamp Qualification 2023 Project Participation/Hackathon offers a 
 
 ## Getting Started
 
-To participate in the project participation/hackathon, choose one of the three tracks that you want to engage with. Click on the track name above, and you will be redirected to the necessary instructions to get started with your chosen track.
+To participate in the project participation/hackathon, choose one of the three tracks that you want to engage with. Click on the button with the track name above, and you will be redirected to the necessary instructions to get started with your chosen track.
 
 ## Submission Method
 
