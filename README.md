@@ -1,4 +1,3 @@
-# DSN AI Bootcamp 2023 Qualification Project Participation and Hackathon
 
 [![Image](https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/images/MicrosoftTeams-image%20(15).png?raw=true)]()
 
@@ -8,6 +7,8 @@
   <a href="link_to_image2"><img src="https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/images/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png?raw=true" height="50" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="link_to_image3"><img src="https://github.com/DataScienceNigeria/DSN-AI-Bootcamp-2023-Qualification-Project-Participation-and-Hackathon/blob/main/images/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png?raw=true" height="50" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+# DSN AI Bootcamp Qualification 2023: Hackathon Overview
 
 ## Introduction
 
@@ -21,7 +22,7 @@ Each track will provide participants with unique challenges and opportunities to
 
 ## About the Hackathon
 
-The DSN AI Bootcamp Qualification 2023 Hackathon offers a real-life project experience for participants to work with different datasets and AI tools. Participants will have the chance to explore valuable insights, develop data-driven solutions, and contribute to informed decision-making for Nigeria's development.
+The DSN AI Bootcamp Qualification 2023 Hackathon offers a real-life project experience for participants to work with different datasets and AI tools. Participants will have the chance to explore valuable insights, develop data-driven solutions, and contribute to informed decision-making.
 
 ## Getting Started
 
@@ -31,7 +32,7 @@ To participate in the hackathon, choose one of the top three tracks that you wan
 
 Once you've completed your project in your selected track, follow the instructions provided in the corresponding track's section to submit your work. Remember to adhere to the submission deadline specified in each track.
 
-Let's make an impact with data and AI, and contribute to a brighter future for Nigeria!
+Let's make an impact with data and AI, and contribute to a brighter future!
 
 <!-- Add any other relevant details and instructions here -->
 
