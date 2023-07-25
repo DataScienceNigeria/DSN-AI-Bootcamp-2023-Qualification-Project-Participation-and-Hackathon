@@ -59,6 +59,5 @@ This hackathon is open to all DSN AI Bootcamp Qualification 2023 participants, P
 
 Begin your data exploration journey with the NESG Household Survey 2018, and let your insights make a difference!
 
-*Note: The content provided above is a basic structure for your website copy. Feel free to customize and expand it to suit your specific event's needs and audience.*
 
  
