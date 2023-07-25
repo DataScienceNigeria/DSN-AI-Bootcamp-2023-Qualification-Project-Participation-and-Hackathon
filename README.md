@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Welcome to the DSN AI Bootcamp Qualification 2023 Hackathon/Project Participation! This Project Participation/Hackathon aims to showcase participants' skills in various tracks, including:
+Welcome to the DSN AI Bootcamp Qualification 2023 Project Participation/Hackathon! This Project Participation/Hackathon aims to showcase participants' skills in various tracks, including:
 
 1. **Microsoft Power BI**
 2. **Microsoft Power Apps**
