@@ -28,18 +28,22 @@ Participants will present their findings and visualizations to a panel of esteem
 
 Participants are required to follow these steps for submission:
 
-1. Create a 5-minute video presentation showcasing their visualizations, insights, and data storytelling.
-2. Submit the Power BI (.PBIX) file, executive report, and video presentation using the URL link provided below.
-
-Submission link: [https://www.loom.com/](https://www.loom.com/)
+1. Create a 5 to 10 minutes video presentation showcasing their visualizations, insights, and data storytelling. 
+2. Submit the Power BI (.PBIX) file
+3. An executive report (PDF format) detailing the project's insight
+   
+Submission link: [https://bit.ly/dsn-Bootcamp-2023](https://bit.ly/dsn-Bootcamp-2023)
 
 ## Dataset Access
 
 To access the NESG Household Survey 2018 dataset and relevant details, use the following links:
 
-- Cleaned Project Dataset: [NESG Project Participation Dataset](link_here)
-- Details about NESG Data: [NESG Nigeria Tax Subsidy Perception Dataset](link_here)
-- NESG Website: [Nigerian Economic Summit Group](link_here)
+Click [here](https://drive.google.com/drive/folders/1v0UavZ9d5NyMOQeWjYA8LVJy6gPeFAma?usp=sharing) to download the Project Dataset: [NESG Project Participation Dataset](https://drive.google.com/drive/folders/1v0UavZ9d5NyMOQeWjYA8LVJy6gPeFAma?usp=sharing)
+
+## To read more about the NESG data, visit: 
+
+- Details about NESG Data: NESG Nigeria Tax Subsidy Perception Dataset
+- NESG Website: Nigerian Economic Summit Group 
 
 ## Important Dates
 
