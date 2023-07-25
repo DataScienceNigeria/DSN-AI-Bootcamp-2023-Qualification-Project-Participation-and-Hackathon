@@ -1,4 +1,4 @@
-# DSN AI Bootcamp Qualification 2023 - Power Apps Track: Project Participation Hackathon
+# DSN AI Bootcamp Qualification 2023 - Power Apps Track: Project Participation/Hackathon
 
 ## Introduction
 
