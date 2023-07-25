@@ -30,18 +30,6 @@ Key Objectives: Automate expense management, improve approval workflows, and enh
 
 Target Audience: Organizations and their employees.
 
-## Submission Guidelines
-
-Participants are required to submit the following:
-
-1. Link to the deployed Power App solution.
-2. A 5 to 10-minute video presentation demonstrating the app's features, functionalities, and innovation.
-3. An executive report (PDF format) detailing the project's design, implementation, challenges, and future scalability.
-
-### Submission Method
-
-All participants are required to submit their projects via the provided link: [Submission Link](https://www.xyz)
-
 ## Judging Criteria
 
 Our panel of expert judges will evaluate each submission based on the following criteria:
@@ -52,6 +40,17 @@ Our panel of expert judges will evaluate each submission based on the following 
 4. Technical Execution: How well is the app designed, developed, and integrated with relevant systems?
 5. Data Security: How robust is the solution in terms of data protection and privacy?
 6. Presentation: How well does the video presentation showcase the app's features and benefits?
+
+## Submission Guidelines
+
+Participants are required to submit the following:
+
+1. Link to the deployed Power App solution.
+2. A 5 to 10-minute video presentation demonstrating the app's features, functionalities, and innovation.
+3. An executive report (PDF format) detailing the project's design, implementation, challenges, and future scalability.
+
+[Submission Link](https://www.xyz)
+
 
 ## Important Dates
 
