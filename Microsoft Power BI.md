@@ -43,21 +43,8 @@ To access the NESG Household Survey 2018 dataset and relevant details, use the f
 
 ## Important Dates
 
-- Hackathon Start Date: [Insert Date]
-- Hackathon End Date: [Insert Date]
-- Submission Deadline: [Insert Date]
-
-## Prizes and Recognition
-
-Participants stand a chance to win exciting prizes and will be recognized for their exceptional work during the closing ceremony.
-
-## Who Can Participate
-
-This hackathon is open to all DSN AI Bootcamp Qualification 2023 participants, Power BI Track.
-
-## Get Started
-
-Begin your data exploration journey with the NESG Household Survey 2018, and let your insights make a difference!
+- Hackathon Start Date: July 26, 2023
+- Submission Deadline: August 6, 2023
 
 
  
