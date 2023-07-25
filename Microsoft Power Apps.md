@@ -57,6 +57,5 @@ Our panel of expert judges will evaluate each submission based on the following 
 
 - Hackathon Launch: July 26, 2023
 - Submission Deadline: August 6, 2023
-- Judging Period: August 7 – 8, 2023
-- Winner Announcement: [Announcement Date]
+  
 
