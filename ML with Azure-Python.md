@@ -32,6 +32,8 @@ To qualify for the DSN AI Bootcamp, you need to submit the following:
 2. Project Implementation Video: Create a 5 to 10 minutes video explaining your project implementation walkthrough.
 3. Executive Report: Submit an executive report in PDF format that includes insights from Exploratory Data Analysis (EDA), biases behind the model (e.g., Linear Regression, XGBoost), and any other insightful information.
 
+Submission link: [https://bit.ly/dsn-Bootcamp-2023](https://bit.ly/dsn-Bootcamp-2023)
+
 ## Important Dates
 
 - Hackathon Start Date: July 26, 2023
