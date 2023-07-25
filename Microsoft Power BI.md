@@ -1,4 +1,4 @@
-# DSN AI Bootcamp Qualification 2023: Power BI Track Hackathon
+# DSN AI Bootcamp Qualification 2023: Power BI Track Project Participation/Hackathon
 
 ## Introduction
 
