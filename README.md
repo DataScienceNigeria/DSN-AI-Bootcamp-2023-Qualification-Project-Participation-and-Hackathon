@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Welcome to the DSN AI Bootcamp Qualification 2023 Hackathon! This hackathon aims to showcase participants' skills in various tracks, including:
+Welcome to the DSN AI Bootcamp Qualification 2023 Hackathon/Project Participation! This Project Participation/Hackathon aims to showcase participants' skills in various tracks, including:
 
 1. **Microsoft Power BI**
 2. **Microsoft Power Apps**
@@ -23,11 +23,11 @@ Each track will provide participants with unique challenges and opportunities to
 
 ## About the Hackathon
 
-The DSN AI Bootcamp Qualification 2023 Hackathon offers a real-life project experience for participants to work with different datasets and AI tools. Participants will have the chance to explore valuable insights, develop data-driven solutions, and contribute to informed decision-making.
+The DSN AI Bootcamp Qualification 2023 Project Participation/Hackathon offers a real-life project experience for participants to work with different datasets and AI tools. Participants will have the chance to explore valuable insights, develop data-driven solutions, and contribute to informed decision-making.
 
 ## Getting Started
 
-To participate in the hackathon, choose one of the top three tracks that you want to engage with. Click on the track name above, and you will be redirected to the necessary instructions to get started with your chosen track.
+To participate in the project participation/hackathon, choose one of the top three tracks that you want to engage with. Click on the track name above, and you will be redirected to the necessary instructions to get started with your chosen track.
 
 ## Submission Method
 
@@ -35,6 +35,5 @@ Once you've completed your project in your selected track, follow the instructio
 
 Let's make an impact with data and AI, and contribute to a brighter future!
 
-<!-- Add any other relevant details and instructions here -->
 
 
