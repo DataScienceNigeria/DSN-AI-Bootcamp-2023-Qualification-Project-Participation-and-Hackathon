@@ -20,7 +20,7 @@ Participants will present their findings and visualizations to a panel of esteem
 
 - Creativity and Originality: How unique and innovative are the visualizations and reports presented?
 - Analytical Insights: Are the insights derived from the data valuable and relevant?
-- Clarity and Impact: How well are the findings communicated in the 10 to 15-minute video presentation and executive report?
+- Clarity and Impact: How well are the findings communicated in the 5 to 15-minute video presentation and executive report?
 - Data Storytelling: How effectively does the participant narrate a compelling story through their visualizations?
 - Technical Proficiency: Assessing the participant's grasp of Power BI tools and features.
 
