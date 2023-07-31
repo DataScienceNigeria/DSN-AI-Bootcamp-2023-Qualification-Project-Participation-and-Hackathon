@@ -29,7 +29,7 @@ Your submission will be evaluated based on the following criteria:
 To qualify for the DSN AI Bootcamp, you need to submit the following:
 
 1. GitHub Repository: Share a link to your GitHub repository containing your code and project files.
-2. Project Implementation Video: Create a 5 to 10 minutes video explaining your project implementation walkthrough.
+2. Project Implementation Video: Create a 5 to 15 minutes video explaining your project implementation walkthrough.
 3. Executive Report: Submit an executive report in PDF format that includes insights from Exploratory Data Analysis (EDA), biases behind the model (e.g., Linear Regression, XGBoost), and any other insightful information.
 
 Submission link: [https://bit.ly/dsn-Bootcamp-2023](https://bit.ly/dsn-Bootcamp-2023)
