@@ -46,7 +46,7 @@ Our panel of expert judges will evaluate each submission based on the following 
 Participants are required to submit the following:
 
 1. Link to the deployed Power App solution.
-2. A 5 to 10-minute video presentation demonstrating the app's features, functionalities, and innovation.
+2. A 5 to 15-minute video presentation demonstrating the app's features, functionalities, and innovation.
 3. An executive report (PDF format) detailing the project's design, implementation, challenges, and future scalability.
 
 Submission link: [https://bit.ly/dsn-Bootcamp-2023](https://bit.ly/dsn-Bootcamp-2023)
